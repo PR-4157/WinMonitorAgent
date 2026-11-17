@@ -1,0 +1,184 @@
+timestamp,serverity,type,detail,pid,path
+2026-11-16 04:11:16,HIGH,New service detected,AarSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k AarSvcGroup -p
+2026-11-16 04:11:16,HIGH,New service detected,BcastDVRUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k BcastDVRUserService
+2026-11-16 04:11:16,HIGH,New service detected,BluetoothUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k BthAppGroup -p
+2026-11-16 04:11:16,HIGH,New service detected,CDPUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 04:11:16,HIGH,New service detected,CaptureService_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2026-11-16 04:11:16,HIGH,New service detected,CloudBackupRestoreSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 04:11:16,HIGH,New service detected,ConsentUxUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-16 04:11:16,HIGH,New service detected,CredentialEnrollmentManagerUserSvc_71f048,,C:\WINDOWS\system32\CredentialEnrollmentManager.exe
+2026-11-16 04:11:16,HIGH,New service detected,DeviceAssociationBrokerSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow -p
+2026-11-16 04:11:16,HIGH,New service detected,DevicePickerUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-16 04:11:16,HIGH,New service detected,DevicesFlowUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-16 04:11:16,HIGH,New service detected,IsoSessionCore,,C:\WINDOWS\system32\svchost.exe -k IsoSessionCore -p
+2026-11-16 04:11:16,HIGH,New service detected,MessagingService_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 04:11:16,HIGH,New service detected,NPSMSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2026-11-16 04:11:16,HIGH,New service detected,OneSyncSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 04:11:16,HIGH,New service detected,P9RdrService_71f048,,C:\WINDOWS\system32\svchost.exe -k P9RdrService -p
+2026-11-16 04:11:16,HIGH,New service detected,PenService_71f048,,C:\WINDOWS\system32\svchost.exe -k PenService
+2026-11-16 04:11:16,HIGH,New service detected,PimIndexMaintenanceSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 04:11:16,HIGH,New service detected,PlutonQcService,,C:\WINDOWS\system32\PlutonQcService.exe
+2026-11-16 04:11:16,HIGH,New service detected,PrintWorkflowUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k PrintWorkflow
+2026-11-16 04:11:16,HIGH,New service detected,UdkUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UdkSvcGroup
+2026-11-16 04:11:16,HIGH,New service detected,UnistoreSvc_71f048,,C:\WINDOWS\System32\svchost.exe -k UnistackSvcGroup
+2026-11-16 04:11:16,HIGH,New service detected,UserDataSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 04:11:16,HIGH,New service detected,WpnUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 04:11:16,HIGH,New service detected,cbdhsvc_71f048,,C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p
+2026-11-16 04:11:16,HIGH,New service detected,webthreatdefusersvc_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2026-11-16 05:21:42,HIGH,New service detected,AarSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k AarSvcGroup -p
+2026-11-16 05:21:42,HIGH,New service detected,BcastDVRUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k BcastDVRUserService
+2026-11-16 05:21:42,HIGH,New service detected,BluetoothUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k BthAppGroup -p
+2026-11-16 05:21:42,HIGH,New service detected,CDPUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 05:21:42,HIGH,New service detected,CaptureService_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2026-11-16 05:21:42,HIGH,New service detected,CloudBackupRestoreSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 05:21:42,HIGH,New service detected,ConsentUxUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-16 05:21:42,HIGH,New service detected,CredentialEnrollmentManagerUserSvc_71f048,,C:\WINDOWS\system32\CredentialEnrollmentManager.exe
+2026-11-16 05:21:42,HIGH,New service detected,DeviceAssociationBrokerSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow -p
+2026-11-16 05:21:42,HIGH,New service detected,DevicePickerUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-16 05:21:42,HIGH,New service detected,DevicesFlowUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-16 05:21:42,HIGH,New service detected,IsoSessionCore,,C:\WINDOWS\system32\svchost.exe -k IsoSessionCore -p
+2026-11-16 05:21:42,HIGH,New service detected,MessagingService_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 05:21:42,HIGH,New service detected,NPSMSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2026-11-16 05:21:42,HIGH,New service detected,OneSyncSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 05:21:42,HIGH,New service detected,P9RdrService_71f048,,C:\WINDOWS\system32\svchost.exe -k P9RdrService -p
+2026-11-16 05:21:42,HIGH,New service detected,PenService_71f048,,C:\WINDOWS\system32\svchost.exe -k PenService
+2026-11-16 05:21:42,HIGH,New service detected,PimIndexMaintenanceSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 05:21:42,HIGH,New service detected,PlutonQcService,,C:\WINDOWS\system32\PlutonQcService.exe
+2026-11-16 05:21:42,HIGH,New service detected,PrintWorkflowUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k PrintWorkflow
+2026-11-16 05:21:42,HIGH,New service detected,UdkUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UdkSvcGroup
+2026-11-16 05:21:42,HIGH,New service detected,UnistoreSvc_71f048,,C:\WINDOWS\System32\svchost.exe -k UnistackSvcGroup
+2026-11-16 05:21:42,HIGH,New service detected,UserDataSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 05:21:42,HIGH,New service detected,WpnUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 05:21:42,HIGH,New service detected,cbdhsvc_71f048,,C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p
+2026-11-16 05:21:42,HIGH,New service detected,webthreatdefusersvc_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2026-11-16 05:25:17,HIGH,New service detected,AarSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k AarSvcGroup -p
+2026-11-16 05:25:17,HIGH,New service detected,BcastDVRUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k BcastDVRUserService
+2026-11-16 05:25:17,HIGH,New service detected,BluetoothUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k BthAppGroup -p
+2026-11-16 05:25:17,HIGH,New service detected,CDPUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 05:25:17,HIGH,New service detected,CaptureService_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2026-11-16 05:25:17,HIGH,New service detected,CloudBackupRestoreSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 05:25:17,HIGH,New service detected,ConsentUxUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-16 05:25:17,HIGH,New service detected,CredentialEnrollmentManagerUserSvc_71f048,,C:\WINDOWS\system32\CredentialEnrollmentManager.exe
+2026-11-16 05:25:17,HIGH,New service detected,DeviceAssociationBrokerSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow -p
+2026-11-16 05:25:17,HIGH,New service detected,DevicePickerUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-16 05:25:17,HIGH,New service detected,DevicesFlowUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-16 05:25:17,HIGH,New service detected,IsoSessionCore,,C:\WINDOWS\system32\svchost.exe -k IsoSessionCore -p
+2026-11-16 05:25:17,HIGH,New service detected,MessagingService_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 05:25:17,HIGH,New service detected,NPSMSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2026-11-16 05:25:17,HIGH,New service detected,OneSyncSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 05:25:17,HIGH,New service detected,P9RdrService_71f048,,C:\WINDOWS\system32\svchost.exe -k P9RdrService -p
+2026-11-16 05:25:17,HIGH,New service detected,PenService_71f048,,C:\WINDOWS\system32\svchost.exe -k PenService
+2026-11-16 05:25:17,HIGH,New service detected,PimIndexMaintenanceSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 05:25:17,HIGH,New service detected,PlutonQcService,,C:\WINDOWS\system32\PlutonQcService.exe
+2026-11-16 05:25:17,HIGH,New service detected,PrintWorkflowUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k PrintWorkflow
+2026-11-16 05:25:17,HIGH,New service detected,UdkUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UdkSvcGroup
+2026-11-16 05:25:17,HIGH,New service detected,UnistoreSvc_71f048,,C:\WINDOWS\System32\svchost.exe -k UnistackSvcGroup
+2026-11-16 05:25:17,HIGH,New service detected,UserDataSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 05:25:17,HIGH,New service detected,WpnUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 05:25:17,HIGH,New service detected,cbdhsvc_71f048,,C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p
+2026-11-16 05:25:17,HIGH,New service detected,webthreatdefusersvc_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2026-11-16 05:38:49,HIGH,Test alert,Simulated test process,1234,C:\Test\test.exe
+2026-11-16 08:08:58,HIGH,New service detected,AarSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k AarSvcGroup -p
+2026-11-16 08:08:58,HIGH,New service detected,BcastDVRUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k BcastDVRUserService
+2026-11-16 08:08:58,HIGH,New service detected,BluetoothUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k BthAppGroup -p
+2026-11-16 08:08:58,HIGH,New service detected,CDPUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 08:08:58,HIGH,New service detected,CaptureService_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2026-11-16 08:08:58,HIGH,New service detected,CloudBackupRestoreSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 08:08:58,HIGH,New service detected,ConsentUxUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-16 08:08:58,HIGH,New service detected,CredentialEnrollmentManagerUserSvc_71f048,,C:\WINDOWS\system32\CredentialEnrollmentManager.exe
+2026-11-16 08:08:58,HIGH,New service detected,DeviceAssociationBrokerSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow -p
+2026-11-16 08:08:58,HIGH,New service detected,DevicePickerUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-16 08:08:58,HIGH,New service detected,DevicesFlowUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-16 08:08:58,HIGH,New service detected,IsoSessionCore,,C:\WINDOWS\system32\svchost.exe -k IsoSessionCore -p
+2026-11-16 08:08:58,HIGH,New service detected,MessagingService_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 08:08:58,HIGH,New service detected,NPSMSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2026-11-16 08:08:58,HIGH,New service detected,OneSyncSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 08:08:58,HIGH,New service detected,P9RdrService_71f048,,C:\WINDOWS\system32\svchost.exe -k P9RdrService -p
+2026-11-16 08:08:58,HIGH,New service detected,PenService_71f048,,C:\WINDOWS\system32\svchost.exe -k PenService
+2026-11-16 08:08:58,HIGH,New service detected,PimIndexMaintenanceSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 08:08:58,HIGH,New service detected,PlutonQcService,,C:\WINDOWS\system32\PlutonQcService.exe
+2026-11-16 08:08:58,HIGH,New service detected,PrintWorkflowUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k PrintWorkflow
+2026-11-16 08:08:58,HIGH,New service detected,UdkUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UdkSvcGroup
+2026-11-16 08:08:58,HIGH,New service detected,UnistoreSvc_71f048,,C:\WINDOWS\System32\svchost.exe -k UnistackSvcGroup
+2026-11-16 08:08:58,HIGH,New service detected,UserDataSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 08:08:58,HIGH,New service detected,WpnUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-16 08:08:58,HIGH,New service detected,cbdhsvc_71f048,,C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p
+2026-11-16 08:08:58,HIGH,New service detected,webthreatdefusersvc_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2026-11-17 05:36:00,HIGH,New service detected,AarSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k AarSvcGroup -p
+2026-11-17 05:36:00,HIGH,New service detected,BcastDVRUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k BcastDVRUserService
+2026-11-17 05:36:00,HIGH,New service detected,BluetoothUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k BthAppGroup -p
+2026-11-17 05:36:00,HIGH,New service detected,CDPUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:36:00,HIGH,New service detected,CaptureService_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2026-11-17 05:36:00,HIGH,New service detected,CloudBackupRestoreSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:36:00,HIGH,New service detected,ConsentUxUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-17 05:36:00,HIGH,New service detected,CredentialEnrollmentManagerUserSvc_71f048,,C:\WINDOWS\system32\CredentialEnrollmentManager.exe
+2026-11-17 05:36:00,HIGH,New service detected,DeviceAssociationBrokerSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow -p
+2026-11-17 05:36:00,HIGH,New service detected,DevicePickerUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-17 05:36:00,HIGH,New service detected,DevicesFlowUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-17 05:36:00,HIGH,New service detected,IsoSessionCore,,C:\WINDOWS\system32\svchost.exe -k IsoSessionCore -p
+2026-11-17 05:36:00,HIGH,New service detected,MessagingService_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:36:00,HIGH,New service detected,NPSMSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2026-11-17 05:36:00,HIGH,New service detected,OneSyncSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:36:00,HIGH,New service detected,P9RdrService_71f048,,C:\WINDOWS\system32\svchost.exe -k P9RdrService -p
+2026-11-17 05:36:00,HIGH,New service detected,PenService_71f048,,C:\WINDOWS\system32\svchost.exe -k PenService
+2026-11-17 05:36:00,HIGH,New service detected,PimIndexMaintenanceSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:36:00,HIGH,New service detected,PlutonQcService,,C:\WINDOWS\system32\PlutonQcService.exe
+2026-11-17 05:36:00,HIGH,New service detected,PrintWorkflowUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k PrintWorkflow
+2026-11-17 05:36:00,HIGH,New service detected,UdkUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UdkSvcGroup
+2026-11-17 05:36:00,HIGH,New service detected,UnistoreSvc_71f048,,C:\WINDOWS\System32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:36:00,HIGH,New service detected,UserDataSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:36:00,HIGH,New service detected,WpnUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:36:00,HIGH,New service detected,cbdhsvc_71f048,,C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p
+2026-11-17 05:36:00,HIGH,New service detected,webthreatdefusersvc_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2026-11-17 05:43:42,HIGH,New service detected,AarSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k AarSvcGroup -p
+2026-11-17 05:43:42,HIGH,New service detected,BcastDVRUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k BcastDVRUserService
+2026-11-17 05:43:42,HIGH,New service detected,BluetoothUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k BthAppGroup -p
+2026-11-17 05:43:42,HIGH,New service detected,CDPUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:43:42,HIGH,New service detected,CaptureService_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2026-11-17 05:43:42,HIGH,New service detected,CloudBackupRestoreSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:43:42,HIGH,New service detected,ConsentUxUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-17 05:43:42,HIGH,New service detected,CredentialEnrollmentManagerUserSvc_71f048,,C:\WINDOWS\system32\CredentialEnrollmentManager.exe
+2026-11-17 05:43:42,HIGH,New service detected,DeviceAssociationBrokerSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow -p
+2026-11-17 05:43:42,HIGH,New service detected,DevicePickerUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-17 05:43:42,HIGH,New service detected,DevicesFlowUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-17 05:43:42,HIGH,New service detected,IsoSessionCore,,C:\WINDOWS\system32\svchost.exe -k IsoSessionCore -p
+2026-11-17 05:43:42,HIGH,New service detected,MessagingService_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:43:42,HIGH,New service detected,NPSMSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2026-11-17 05:43:42,HIGH,New service detected,OneSyncSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:43:42,HIGH,New service detected,P9RdrService_71f048,,C:\WINDOWS\system32\svchost.exe -k P9RdrService -p
+2026-11-17 05:43:42,HIGH,New service detected,PenService_71f048,,C:\WINDOWS\system32\svchost.exe -k PenService
+2026-11-17 05:43:42,HIGH,New service detected,PimIndexMaintenanceSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:43:42,HIGH,New service detected,PlutonQcService,,C:\WINDOWS\system32\PlutonQcService.exe
+2026-11-17 05:43:42,HIGH,New service detected,PrintWorkflowUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k PrintWorkflow
+2026-11-17 05:43:42,HIGH,New service detected,UdkUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UdkSvcGroup
+2026-11-17 05:43:42,HIGH,New service detected,UnistoreSvc_71f048,,C:\WINDOWS\System32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:43:42,HIGH,New service detected,UserDataSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:43:42,HIGH,New service detected,WpnUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:43:42,HIGH,New service detected,cbdhsvc_71f048,,C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p
+2026-11-17 05:43:42,HIGH,New service detected,webthreatdefusersvc_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2026-11-17 05:50:45,HIGH,New service detected,AarSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k AarSvcGroup -p
+2026-11-17 05:50:45,HIGH,New service detected,BcastDVRUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k BcastDVRUserService
+2026-11-17 05:50:45,HIGH,New service detected,BluetoothUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k BthAppGroup -p
+2026-11-17 05:50:45,HIGH,New service detected,CDPUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:50:45,HIGH,New service detected,CaptureService_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2026-11-17 05:50:45,HIGH,New service detected,CloudBackupRestoreSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:50:45,HIGH,New service detected,ConsentUxUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-17 05:50:45,HIGH,New service detected,CredentialEnrollmentManagerUserSvc_71f048,,C:\WINDOWS\system32\CredentialEnrollmentManager.exe
+2026-11-17 05:50:45,HIGH,New service detected,DeviceAssociationBrokerSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow -p
+2026-11-17 05:50:45,HIGH,New service detected,DevicePickerUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-17 05:50:45,HIGH,New service detected,DevicesFlowUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k DevicesFlow
+2026-11-17 05:50:45,HIGH,New service detected,IsoSessionCore,,C:\WINDOWS\system32\svchost.exe -k IsoSessionCore -p
+2026-11-17 05:50:45,HIGH,New service detected,MessagingService_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:50:45,HIGH,New service detected,NPSMSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalService -p
+2026-11-17 05:50:45,HIGH,New service detected,OneSyncSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:50:45,HIGH,New service detected,P9RdrService_71f048,,C:\WINDOWS\system32\svchost.exe -k P9RdrService -p
+2026-11-17 05:50:45,HIGH,New service detected,PenService_71f048,,C:\WINDOWS\system32\svchost.exe -k PenService
+2026-11-17 05:50:45,HIGH,New service detected,PimIndexMaintenanceSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:50:45,HIGH,New service detected,PlutonQcService,,C:\WINDOWS\system32\PlutonQcService.exe
+2026-11-17 05:50:45,HIGH,New service detected,PrintWorkflowUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k PrintWorkflow
+2026-11-17 05:50:45,HIGH,New service detected,UdkUserSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UdkSvcGroup
+2026-11-17 05:50:45,HIGH,New service detected,UnistoreSvc_71f048,,C:\WINDOWS\System32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:50:45,HIGH,New service detected,UserDataSvc_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:50:45,HIGH,New service detected,WpnUserService_71f048,,C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+2026-11-17 05:50:45,HIGH,New service detected,cbdhsvc_71f048,,C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p
+2026-11-17 05:50:45,HIGH,New service detected,webthreatdefusersvc_71f048,,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p

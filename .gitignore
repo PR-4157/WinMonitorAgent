@@ -1,0 +1,27 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# Local environment variables and secrets
+.env
+.env.*
+
+# Generated reports and machine-specific data 
+reports/
+logs/
+baseline_services.json
+
+# Operating system files
+.DS_Store
+Thumbs.db

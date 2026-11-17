@@ -1,0 +1,2 @@
+timestamp,serverity,type,detail,pid,path
+2026-11-16 08:03:44,HIGH,Test alert,Simulated test process,1234,C:\Test\test.exe
