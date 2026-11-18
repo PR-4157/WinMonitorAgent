@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Windows service & Process Monitoring Agent
 
 ## 1. Project Overview 
@@ -153,3 +154,7 @@ The Windows service & Process Monitoring Agent demonstrates basic endpoint monit
 
 The project collects process and service information, applies security detection rules, and generates CSV reports for further investigation. 
 
+=======
+# WinMonitorAgent
+Windows Service and Process Monitoring Agent using Python for suspicious process and service detection.
+>>>>>>> 0cb8ec104a1a668a049eff795eb286ad1b2ec896
